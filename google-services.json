@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46808275519",
+    "project_id": "think-ecommerce",
+    "storage_bucket": "think-ecommerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46808275519:android:240fdbc8a76d627d25b68a",
+        "android_client_info": {
+          "package_name": "com.thinkecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIdabOPoKnVblEna6azHpT6y9y6kmnGh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
