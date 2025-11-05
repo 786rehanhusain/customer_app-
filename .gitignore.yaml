@@ -1,0 +1,32 @@
+.gitignore
+# Flutter/Dart
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Secrets
+*.b64
+*.txt
+*.json
+google-services.json
+github key.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
